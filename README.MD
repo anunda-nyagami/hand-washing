@@ -6,7 +6,7 @@ Photo by [Wikimedia](https://commons.wikimedia.org/wiki/File:Ignaz_Semmelweis_18
 -->
 <p>This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. </p>
 
-In an article by Dr. Howard Markel in 2015 on [PBS News Hour](https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing), it was outlined that in 1850, Dr. Semmelweis saved lives with three words: **Wash your hands**.
+In an article by Dr. Howard Markel in 2015 on [PBS News Hour](https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing), it was outlined that in 1850, Dr. Semmelweis saved lives with three words: ***Wash Your Hands***.
 
 <p>In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of <em>handwashing</em>. 
 
